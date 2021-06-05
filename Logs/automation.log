@@ -1,0 +1,685 @@
+2021-06-05 00:09:48,577  INFO [main] nopcommerce:28 - ************** Launching the browser **************
+2021-06-05 00:09:48,661  INFO [main] nopcommerce:35 - ************** Opening the website **************
+2021-06-05 00:09:50,451  INFO [main] nopcommerce:42 - ************** Providing login credentials **************
+2021-06-05 00:09:51,297  INFO [main] nopcommerce:50 - ************** Clicking login button **************
+2021-06-05 00:10:03,531  INFO [main] nopcommerce:90 - ************** Dashboard page is visible **************
+2021-06-05 00:10:12,953  INFO [main] nopcommerce:112 - ************** Add customer page is visible **************
+2021-06-05 00:10:12,957  INFO [main] nopcommerce:119 - ************** Add new customer credentials **************
+2021-06-05 00:10:18,061  INFO [main] nopcommerce:138 - ************** Click save **************
+2021-06-05 00:10:22,806  INFO [main] nopcommerce:146 - ************** New customer is added successfully **************
+2021-06-05 00:10:22,808  INFO [main] nopcommerce:79 - ************** Closing the browser **************
+2021-06-05 00:10:25,921  INFO [main] nopcommerce:28 - ************** Launching the browser **************
+2021-06-05 00:10:25,923  INFO [main] nopcommerce:35 - ************** Opening the website **************
+2021-06-05 00:10:28,566  INFO [main] nopcommerce:42 - ************** Providing login credentials **************
+2021-06-05 00:10:29,571  INFO [main] nopcommerce:50 - ************** Clicking login button **************
+2021-06-05 00:10:41,610  INFO [main] nopcommerce:90 - ************** Dashboard page is visible **************
+2021-06-05 00:10:47,042  INFO [main] nopcommerce:156 - ************** Enter Email desired to search for **************
+2021-06-05 00:10:48,061  INFO [main] nopcommerce:164 - ************** Click on search button **************
+2021-06-05 00:10:53,176  INFO [main] nopcommerce:173 - ************** Search by Email is successful, and the result is matched **************
+2021-06-05 00:10:53,178  INFO [main] nopcommerce:79 - ************** Closing the browser **************
+2021-06-05 00:10:57,035  INFO [main] nopcommerce:28 - ************** Launching the browser **************
+2021-06-05 00:10:57,038  INFO [main] nopcommerce:35 - ************** Opening the website **************
+2021-06-05 00:10:58,817  INFO [main] nopcommerce:42 - ************** Providing login credentials **************
+2021-06-05 00:10:59,921  INFO [main] nopcommerce:50 - ************** Clicking login button **************
+2021-06-05 00:11:44,203  INFO [main] nopcommerce:90 - ************** Dashboard page is visible **************
+2021-06-05 00:11:52,020  INFO [main] nopcommerce:183 - ************** Enter First name desired to search for **************
+2021-06-05 00:11:52,658  INFO [main] nopcommerce:189 - ************** Enter last name desired to search for **************
+2021-06-05 00:11:53,127  INFO [main] nopcommerce:164 - ************** Click on search button **************
+2021-06-05 00:11:58,230  INFO [main] nopcommerce:198 - ************** Search by full name is successful, and the result is matched **************
+2021-06-05 00:11:58,232  INFO [main] nopcommerce:79 - ************** Closing the browser **************
+2021-06-05 00:12:00,920  INFO [main] nopcommerce:28 - ************** Launching the browser **************
+2021-06-05 00:12:00,922  INFO [main] nopcommerce:35 - ************** Opening the website **************
+2021-06-05 00:12:03,631  INFO [main] nopcommerce:42 - ************** Providing login credentials **************
+2021-06-05 00:12:04,550  INFO [main] nopcommerce:50 - ************** Clicking login button **************
+2021-06-05 00:12:21,801  INFO [main] nopcommerce:64 - ************** Login successfully  **************
+2021-06-05 00:12:23,482  INFO [main] nopcommerce:71 - ************** Click on logout link **************
+2021-06-05 00:12:23,617  INFO [main] nopcommerce:64 - ************** Login successfully  **************
+2021-06-05 00:12:23,618  INFO [main] nopcommerce:79 - ************** Closing the browser **************
+2021-06-05 00:12:27,247  INFO [main] nopcommerce:28 - ************** Launching the browser **************
+2021-06-05 00:12:27,249  INFO [main] nopcommerce:35 - ************** Opening the website **************
+2021-06-05 00:12:28,737  INFO [main] nopcommerce:42 - ************** Providing login credentials **************
+2021-06-05 00:12:29,534  INFO [main] nopcommerce:50 - ************** Clicking login button **************
+2021-06-05 00:12:46,535  INFO [main] nopcommerce:64 - ************** Login successfully  **************
+2021-06-05 00:12:48,135  INFO [main] nopcommerce:71 - ************** Click on logout link **************
+2021-06-05 00:12:48,266  INFO [main] nopcommerce:64 - ************** Login successfully  **************
+2021-06-05 00:12:48,267  INFO [main] nopcommerce:79 - ************** Closing the browser **************
+2021-06-05 00:12:51,527  INFO [main] nopcommerce:28 - ************** Launching the browser **************
+2021-06-05 00:12:51,529  INFO [main] nopcommerce:35 - ************** Opening the website **************
+2021-06-05 00:12:53,142  INFO [main] nopcommerce:42 - ************** Providing login credentials **************
+2021-06-05 00:12:53,982  INFO [main] nopcommerce:50 - ************** Clicking login button **************
+2021-06-05 00:12:55,023  INFO [main] nopcommerce:58 - ************** Login fail **************
+2021-06-05 01:32:39,378  INFO [main] nopcommerce:58 - ************** Launching the browser **************
+2021-06-05 01:32:39,405  INFO [main] nopcommerce:65 - ************** Opening the website **************
+2021-06-05 01:32:44,776  INFO [main] nopcommerce:72 - ************** Providing login credentials **************
+2021-06-05 01:32:45,670  INFO [main] nopcommerce:80 - ************** Clicking login button **************
+2021-06-05 01:33:04,364  INFO [main] nopcommerce:120 - ************** Dashboard page is visible **************
+2021-06-05 01:33:09,908  INFO [main] nopcommerce:213 - ************** Enter First name desired to search for **************
+2021-06-05 01:33:10,410  INFO [main] nopcommerce:219 - ************** Enter last name desired to search for **************
+2021-06-05 01:33:11,116  INFO [main] nopcommerce:194 - ************** Click on search button **************
+2021-06-05 01:33:16,243  INFO [main] nopcommerce:228 - ************** Search by full name is successful, and the result is matched **************
+2021-06-05 01:33:16,245  INFO [main] nopcommerce:109 - ************** Closing the browser **************
+2021-06-05 01:34:07,460  INFO [main] nopcommerce:58 - ************** Launching the browser **************
+2021-06-05 01:34:07,533  INFO [main] nopcommerce:65 - ************** Opening the website **************
+2021-06-05 01:34:09,747  INFO [main] nopcommerce:72 - ************** Providing login credentials **************
+2021-06-05 01:34:10,166  INFO [main] nopcommerce:80 - ************** Clicking login button **************
+2021-06-05 01:34:26,970  INFO [main] nopcommerce:120 - ************** Dashboard page is visible **************
+2021-06-05 01:34:31,733  INFO [main] nopcommerce:213 - ************** Enter First name desired to search for **************
+2021-06-05 01:34:32,304  INFO [main] nopcommerce:219 - ************** Enter last name desired to search for **************
+2021-06-05 01:34:33,393  INFO [main] nopcommerce:194 - ************** Click on search button **************
+2021-06-05 01:34:38,480  INFO [main] nopcommerce:228 - ************** Search by full name is successful, and the result is matched **************
+2021-06-05 01:34:38,482  INFO [main] nopcommerce:109 - ************** Closing the browser **************
+2021-06-05 02:24:19,237  INFO [main] nopcommerce:58 - ************** Launching the browser **************
+2021-06-05 02:24:19,270  INFO [main] nopcommerce:65 - ************** Opening the website **************
+2021-06-05 02:24:26,730  INFO [main] nopcommerce:72 - ************** Providing login credentials **************
+2021-06-05 02:24:27,237  INFO [main] nopcommerce:80 - ************** Clicking login button **************
+2021-06-05 02:24:40,969  INFO [main] nopcommerce:120 - ************** Dashboard page is visible **************
+2021-06-05 02:24:52,104  INFO [main] nopcommerce:142 - ************** Add customer page is visible **************
+2021-06-05 02:24:52,109  INFO [main] nopcommerce:149 - ************** Add new customer credentials **************
+2021-06-05 02:24:56,450  INFO [main] nopcommerce:168 - ************** Click save **************
+2021-06-05 02:25:01,745  INFO [main] nopcommerce:176 - ************** New customer is added successfully **************
+2021-06-05 02:25:01,747  INFO [main] nopcommerce:109 - ************** Closing the browser **************
+2021-06-05 02:25:13,562  INFO [main] nopcommerce:58 - ************** Launching the browser **************
+2021-06-05 02:25:13,569  INFO [main] nopcommerce:65 - ************** Opening the website **************
+2021-06-05 02:25:15,720  INFO [main] nopcommerce:72 - ************** Providing login credentials **************
+2021-06-05 02:25:16,022  INFO [main] nopcommerce:80 - ************** Clicking login button **************
+2021-06-05 02:25:23,287  INFO [main] nopcommerce:94 - ************** Login successfully  **************
+2021-06-05 02:25:24,747  INFO [main] nopcommerce:101 - ************** Click on logout link **************
+2021-06-05 02:27:02,007  INFO [main] nopcommerce:58 - ************** Launching the browser **************
+2021-06-05 02:27:02,046  INFO [main] nopcommerce:65 - ************** Opening the website **************
+2021-06-05 02:27:04,774  INFO [main] nopcommerce:72 - ************** Providing login credentials **************
+2021-06-05 02:27:05,786  INFO [main] nopcommerce:80 - ************** Clicking login button **************
+2021-06-05 02:27:15,893  INFO [main] nopcommerce:120 - ************** Dashboard page is visible **************
+2021-06-05 02:27:24,341  INFO [main] nopcommerce:142 - ************** Add customer page is visible **************
+2021-06-05 02:27:24,345  INFO [main] nopcommerce:149 - ************** Add new customer credentials **************
+2021-06-05 02:27:28,637  INFO [main] nopcommerce:168 - ************** Click save **************
+2021-06-05 02:27:33,895  INFO [main] nopcommerce:176 - ************** New customer is added successfully **************
+2021-06-05 02:27:33,898  INFO [main] nopcommerce:109 - ************** Closing the browser **************
+2021-06-05 02:27:38,976  INFO [main] nopcommerce:58 - ************** Launching the browser **************
+2021-06-05 02:27:38,984  INFO [main] nopcommerce:65 - ************** Opening the website **************
+2021-06-05 02:27:41,732  INFO [main] nopcommerce:72 - ************** Providing login credentials **************
+2021-06-05 02:27:42,893  INFO [main] nopcommerce:80 - ************** Clicking login button **************
+2021-06-05 02:27:52,499  INFO [main] nopcommerce:94 - ************** Login successfully  **************
+2021-06-05 02:27:55,956  INFO [main] nopcommerce:101 - ************** Click on logout link **************
+2021-06-05 02:27:56,108  INFO [main] nopcommerce:94 - ************** Login successfully  **************
+2021-06-05 02:27:56,110  INFO [main] nopcommerce:109 - ************** Closing the browser **************
+2021-06-05 04:10:41,348  INFO [main] nopcommerce:57 - ************** Launching the browser **************
+2021-06-05 04:10:41,383  INFO [main] nopcommerce:64 - ************** Opening the website **************
+2021-06-05 04:10:43,570  INFO [main] nopcommerce:71 - ************** Providing login credentials **************
+2021-06-05 04:10:44,395  INFO [main] nopcommerce:79 - ************** Clicking login button **************
+2021-06-05 04:10:52,442  INFO [main] nopcommerce:119 - ************** Dashboard page is visible **************
+2021-06-05 04:11:01,883  INFO [main] nopcommerce:141 - ************** Add customer page is visible **************
+2021-06-05 04:11:01,887  INFO [main] nopcommerce:148 - ************** Add new customer credentials **************
+2021-06-05 04:11:04,867  INFO [main] nopcommerce:167 - ************** Click save **************
+2021-06-05 04:11:10,283  INFO [main] nopcommerce:175 - ************** New customer is added successfully **************
+2021-06-05 04:11:10,286  INFO [main] nopcommerce:108 - ************** Closing the browser **************
+2021-06-05 04:11:13,410  INFO [main] nopcommerce:57 - ************** Launching the browser **************
+2021-06-05 04:11:13,419  INFO [main] nopcommerce:64 - ************** Opening the website **************
+2021-06-05 04:11:15,458  INFO [main] nopcommerce:71 - ************** Providing login credentials **************
+2021-06-05 04:11:16,151  INFO [main] nopcommerce:79 - ************** Clicking login button **************
+2021-06-05 04:11:24,216  INFO [main] nopcommerce:119 - ************** Dashboard page is visible **************
+2021-06-05 04:11:27,340  INFO [main] nopcommerce:185 - ************** Enter Email desired to search for **************
+2021-06-05 04:11:28,014  INFO [main] nopcommerce:193 - ************** Click on search button **************
+2021-06-05 04:11:33,119  INFO [main] nopcommerce:202 - ************** Search by Email is successful, and the result is matched **************
+2021-06-05 04:11:33,122  INFO [main] nopcommerce:108 - ************** Closing the browser **************
+2021-06-05 04:11:36,058  INFO [main] nopcommerce:57 - ************** Launching the browser **************
+2021-06-05 04:11:36,061  INFO [main] nopcommerce:64 - ************** Opening the website **************
+2021-06-05 04:11:37,671  INFO [main] nopcommerce:71 - ************** Providing login credentials **************
+2021-06-05 04:11:38,335  INFO [main] nopcommerce:79 - ************** Clicking login button **************
+2021-06-05 04:11:45,652  INFO [main] nopcommerce:119 - ************** Dashboard page is visible **************
+2021-06-05 04:11:49,077  INFO [main] nopcommerce:212 - ************** Enter First name desired to search for **************
+2021-06-05 04:11:49,573  INFO [main] nopcommerce:218 - ************** Enter last name desired to search for **************
+2021-06-05 04:11:50,040  INFO [main] nopcommerce:193 - ************** Click on search button **************
+2021-06-05 04:11:55,147  INFO [main] nopcommerce:227 - ************** Search by full name is successful, and the result is matched **************
+2021-06-05 04:11:55,149  INFO [main] nopcommerce:108 - ************** Closing the browser **************
+2021-06-05 04:11:58,410  INFO [main] nopcommerce:57 - ************** Launching the browser **************
+2021-06-05 04:11:58,412  INFO [main] nopcommerce:64 - ************** Opening the website **************
+2021-06-05 04:12:00,416  INFO [main] nopcommerce:71 - ************** Providing login credentials **************
+2021-06-05 04:12:00,985  INFO [main] nopcommerce:79 - ************** Clicking login button **************
+2021-06-05 04:12:08,951  INFO [main] nopcommerce:93 - ************** Login successfully  **************
+2021-06-05 04:12:11,462  INFO [main] nopcommerce:100 - ************** Click on logout link **************
+2021-06-05 04:12:11,643  INFO [main] nopcommerce:93 - ************** Login successfully  **************
+2021-06-05 04:12:11,644  INFO [main] nopcommerce:108 - ************** Closing the browser **************
+2021-06-05 04:12:14,466  INFO [main] nopcommerce:57 - ************** Launching the browser **************
+2021-06-05 04:12:14,469  INFO [main] nopcommerce:64 - ************** Opening the website **************
+2021-06-05 04:12:16,461  INFO [main] nopcommerce:71 - ************** Providing login credentials **************
+2021-06-05 04:12:16,991  INFO [main] nopcommerce:79 - ************** Clicking login button **************
+2021-06-05 04:12:23,574  INFO [main] nopcommerce:93 - ************** Login successfully  **************
+2021-06-05 04:12:26,674  INFO [main] nopcommerce:100 - ************** Click on logout link **************
+2021-06-05 04:12:26,790  INFO [main] nopcommerce:93 - ************** Login successfully  **************
+2021-06-05 04:12:26,792  INFO [main] nopcommerce:108 - ************** Closing the browser **************
+2021-06-05 04:12:29,730  INFO [main] nopcommerce:57 - ************** Launching the browser **************
+2021-06-05 04:12:29,733  INFO [main] nopcommerce:64 - ************** Opening the website **************
+2021-06-05 04:12:31,129  INFO [main] nopcommerce:71 - ************** Providing login credentials **************
+2021-06-05 04:12:31,680  INFO [main] nopcommerce:79 - ************** Clicking login button **************
+2021-06-05 04:12:32,581  INFO [main] nopcommerce:87 - ************** Login fail **************
+2021-06-05 04:25:47,098  INFO [main] nopcommerce:57 - ************** Launching the browser **************
+2021-06-05 04:25:47,133  INFO [main] nopcommerce:64 - ************** Opening the website **************
+2021-06-05 04:26:07,548  INFO [main] nopcommerce:57 - ************** Launching the browser **************
+2021-06-05 04:26:07,550  INFO [main] nopcommerce:64 - ************** Opening the website **************
+2021-06-05 04:26:28,848  INFO [main] nopcommerce:57 - ************** Launching the browser **************
+2021-06-05 04:26:28,876  INFO [main] nopcommerce:64 - ************** Opening the website **************
+2021-06-05 04:26:32,417  INFO [main] nopcommerce:57 - ************** Launching the browser **************
+2021-06-05 04:26:32,420  INFO [main] nopcommerce:64 - ************** Opening the website **************
+2021-06-05 04:27:48,979  INFO [main] nopcommerce:57 - ************** Launching the browser **************
+2021-06-05 04:27:49,011  INFO [main] nopcommerce:64 - ************** Opening the website **************
+2021-06-05 04:27:51,186  INFO [main] nopcommerce:71 - ************** Providing login credentials **************
+2021-06-05 04:27:52,279  INFO [main] nopcommerce:79 - ************** Clicking login button **************
+2021-06-05 04:28:02,130  INFO [main] nopcommerce:94 - ************** Login successfully  **************
+2021-06-05 04:28:04,752  INFO [main] nopcommerce:101 - ************** Click on logout link **************
+2021-06-05 04:28:05,294  INFO [main] nopcommerce:94 - ************** Login successfully  **************
+2021-06-05 04:28:05,295  INFO [main] nopcommerce:109 - ************** Closing the browser **************
+2021-06-05 04:28:08,613  INFO [main] nopcommerce:57 - ************** Launching the browser **************
+2021-06-05 04:28:08,615  INFO [main] nopcommerce:64 - ************** Opening the website **************
+2021-06-05 04:28:10,996  INFO [main] nopcommerce:71 - ************** Providing login credentials **************
+2021-06-05 04:28:11,887  INFO [main] nopcommerce:79 - ************** Clicking login button **************
+2021-06-05 04:28:17,952  INFO [main] nopcommerce:88 - ************** Login fail **************
+2021-06-05 04:29:46,613  INFO [main] nopcommerce:57 - ************** Launching the browser **************
+2021-06-05 04:29:46,638  INFO [main] nopcommerce:64 - ************** Opening the website **************
+2021-06-05 04:29:48,096  INFO [main] nopcommerce:71 - ************** Providing login credentials **************
+2021-06-05 04:29:48,807  INFO [main] nopcommerce:79 - ************** Clicking login button **************
+2021-06-05 04:29:55,737  INFO [main] nopcommerce:95 - ************** Login successfully  **************
+2021-06-05 04:29:58,328  INFO [main] nopcommerce:102 - ************** Click on logout link **************
+2021-06-05 04:29:58,809  INFO [main] nopcommerce:95 - ************** Login successfully  **************
+2021-06-05 04:29:58,811  INFO [main] nopcommerce:110 - ************** Closing the browser **************
+2021-06-05 04:30:01,711  INFO [main] nopcommerce:57 - ************** Launching the browser **************
+2021-06-05 04:30:01,713  INFO [main] nopcommerce:64 - ************** Opening the website **************
+2021-06-05 04:30:03,321  INFO [main] nopcommerce:71 - ************** Providing login credentials **************
+2021-06-05 04:30:04,250  INFO [main] nopcommerce:79 - ************** Clicking login button **************
+2021-06-05 04:30:05,616  INFO [main] nopcommerce:89 - ************** Login fail **************
+2021-06-05 04:32:35,309  INFO [main] nopcommerce:57 - ************** Launching the browser **************
+2021-06-05 04:32:35,342  INFO [main] nopcommerce:64 - ************** Opening the website **************
+2021-06-05 04:32:37,600  INFO [main] nopcommerce:71 - ************** Providing login credentials **************
+2021-06-05 04:32:38,204  INFO [main] nopcommerce:79 - ************** Clicking login button **************
+2021-06-05 04:32:44,065  INFO [main] nopcommerce:85 - *********Login Validation starts ***************
+2021-06-05 04:32:44,732  INFO [main] nopcommerce:95 - ************** Login successfully  **************
+2021-06-05 04:32:47,055  INFO [main] nopcommerce:102 - ************** Click on logout link **************
+2021-06-05 04:32:47,215  INFO [main] nopcommerce:85 - *********Login Validation starts ***************
+2021-06-05 04:32:47,242  INFO [main] nopcommerce:95 - ************** Login successfully  **************
+2021-06-05 04:32:47,244  INFO [main] nopcommerce:110 - ************** Closing the browser **************
+2021-06-05 04:32:50,623  INFO [main] nopcommerce:57 - ************** Launching the browser **************
+2021-06-05 04:32:50,625  INFO [main] nopcommerce:64 - ************** Opening the website **************
+2021-06-05 04:32:52,040  INFO [main] nopcommerce:71 - ************** Providing login credentials **************
+2021-06-05 04:32:52,783  INFO [main] nopcommerce:79 - ************** Clicking login button **************
+2021-06-05 04:32:53,532  INFO [main] nopcommerce:85 - *********Login Validation starts ***************
+2021-06-05 04:32:53,561  INFO [main] nopcommerce:88 - *********Login Failed ***************
+2021-06-05 04:35:30,966  INFO [main] nopcommerce:57 - ************** Launching the browser **************
+2021-06-05 04:35:30,999  INFO [main] nopcommerce:64 - ************** Opening the website **************
+2021-06-05 04:35:33,664  INFO [main] nopcommerce:71 - ************** Providing login credentials **************
+2021-06-05 04:35:34,675  INFO [main] nopcommerce:79 - ************** Clicking login button **************
+2021-06-05 04:35:40,974  INFO [main] nopcommerce:85 - *********Login Validation starts ***************
+2021-06-05 04:35:41,961  INFO [main] nopcommerce:95 - ************** Login successfully  **************
+2021-06-05 04:35:44,957  INFO [main] nopcommerce:102 - ************** Click on logout link **************
+2021-06-05 04:35:45,207  INFO [main] nopcommerce:85 - *********Login Validation starts ***************
+2021-06-05 04:35:45,250  INFO [main] nopcommerce:95 - ************** Login successfully  **************
+2021-06-05 04:35:45,252  INFO [main] nopcommerce:110 - ************** Closing the browser **************
+2021-06-05 04:35:50,652  INFO [main] nopcommerce:57 - ************** Launching the browser **************
+2021-06-05 04:35:50,654  INFO [main] nopcommerce:64 - ************** Opening the website **************
+2021-06-05 04:35:53,376  INFO [main] nopcommerce:71 - ************** Providing login credentials **************
+2021-06-05 04:35:55,164  INFO [main] nopcommerce:79 - ************** Clicking login button **************
+2021-06-05 04:35:56,974  INFO [main] nopcommerce:85 - *********Login Validation starts ***************
+2021-06-05 04:35:57,014  INFO [main] nopcommerce:88 - *********Login Failed ***************
+2021-06-05 04:36:54,421  INFO [main] nopcommerce:57 - ************** Launching the browser **************
+2021-06-05 04:36:54,501  INFO [main] nopcommerce:64 - ************** Opening the website **************
+2021-06-05 04:36:56,809  INFO [main] nopcommerce:71 - ************** Providing login credentials **************
+2021-06-05 04:36:57,839  INFO [main] nopcommerce:79 - ************** Clicking login button **************
+2021-06-05 04:37:04,517  INFO [main] nopcommerce:121 - ************** Dashboard page is visible **************
+2021-06-05 04:37:13,652  INFO [main] nopcommerce:143 - ************** Add customer page is visible **************
+2021-06-05 04:37:13,655  INFO [main] nopcommerce:150 - ************** Add new customer credentials **************
+2021-06-05 04:37:16,876  INFO [main] nopcommerce:169 - ************** Click save **************
+2021-06-05 04:37:22,117  INFO [main] nopcommerce:177 - ************** New customer is added successfully **************
+2021-06-05 04:37:22,121  INFO [main] nopcommerce:110 - ************** Closing the browser **************
+2021-06-05 04:37:26,123  INFO [main] nopcommerce:57 - ************** Launching the browser **************
+2021-06-05 04:37:26,135  INFO [main] nopcommerce:64 - ************** Opening the website **************
+2021-06-05 04:37:28,359  INFO [main] nopcommerce:71 - ************** Providing login credentials **************
+2021-06-05 04:37:29,035  INFO [main] nopcommerce:79 - ************** Clicking login button **************
+2021-06-05 04:37:35,380  INFO [main] nopcommerce:121 - ************** Dashboard page is visible **************
+2021-06-05 04:37:38,302  INFO [main] nopcommerce:187 - ************** Enter Email desired to search for **************
+2021-06-05 04:37:38,914  INFO [main] nopcommerce:195 - ************** Click on search button **************
+2021-06-05 04:37:44,018  INFO [main] nopcommerce:204 - ************** Search by Email is successful, and the result is matched **************
+2021-06-05 04:37:44,020  INFO [main] nopcommerce:110 - ************** Closing the browser **************
+2021-06-05 04:37:47,381  INFO [main] nopcommerce:57 - ************** Launching the browser **************
+2021-06-05 04:37:47,384  INFO [main] nopcommerce:64 - ************** Opening the website **************
+2021-06-05 04:37:48,775  INFO [main] nopcommerce:71 - ************** Providing login credentials **************
+2021-06-05 04:37:49,324  INFO [main] nopcommerce:79 - ************** Clicking login button **************
+2021-06-05 04:37:54,276  INFO [main] nopcommerce:121 - ************** Dashboard page is visible **************
+2021-06-05 04:37:57,197  INFO [main] nopcommerce:214 - ************** Enter First name desired to search for **************
+2021-06-05 04:37:57,616  INFO [main] nopcommerce:220 - ************** Enter last name desired to search for **************
+2021-06-05 04:37:58,011  INFO [main] nopcommerce:195 - ************** Click on search button **************
+2021-06-05 04:38:03,120  INFO [main] nopcommerce:229 - ************** Search by full name is successful, and the result is matched **************
+2021-06-05 04:38:03,122  INFO [main] nopcommerce:110 - ************** Closing the browser **************
+2021-06-05 04:38:06,606  INFO [main] nopcommerce:57 - ************** Launching the browser **************
+2021-06-05 04:38:06,608  INFO [main] nopcommerce:64 - ************** Opening the website **************
+2021-06-05 04:38:08,646  INFO [main] nopcommerce:71 - ************** Providing login credentials **************
+2021-06-05 04:38:09,292  INFO [main] nopcommerce:79 - ************** Clicking login button **************
+2021-06-05 04:38:16,619  INFO [main] nopcommerce:85 - *********Login Validation starts ***************
+2021-06-05 04:38:17,085  INFO [main] nopcommerce:95 - ************** Login successfully  **************
+2021-06-05 04:38:19,193  INFO [main] nopcommerce:102 - ************** Click on logout link **************
+2021-06-05 04:38:19,371  INFO [main] nopcommerce:85 - *********Login Validation starts ***************
+2021-06-05 04:38:19,397  INFO [main] nopcommerce:95 - ************** Login successfully  **************
+2021-06-05 04:38:19,399  INFO [main] nopcommerce:110 - ************** Closing the browser **************
+2021-06-05 04:38:22,609  INFO [main] nopcommerce:57 - ************** Launching the browser **************
+2021-06-05 04:38:22,611  INFO [main] nopcommerce:64 - ************** Opening the website **************
+2021-06-05 04:38:24,646  INFO [main] nopcommerce:71 - ************** Providing login credentials **************
+2021-06-05 04:38:25,299  INFO [main] nopcommerce:79 - ************** Clicking login button **************
+2021-06-05 04:38:31,838  INFO [main] nopcommerce:85 - *********Login Validation starts ***************
+2021-06-05 04:38:32,181  INFO [main] nopcommerce:95 - ************** Login successfully  **************
+2021-06-05 04:38:34,903  INFO [main] nopcommerce:102 - ************** Click on logout link **************
+2021-06-05 04:38:34,995  INFO [main] nopcommerce:85 - *********Login Validation starts ***************
+2021-06-05 04:38:35,018  INFO [main] nopcommerce:95 - ************** Login successfully  **************
+2021-06-05 04:38:35,021  INFO [main] nopcommerce:110 - ************** Closing the browser **************
+2021-06-05 04:38:38,088  INFO [main] nopcommerce:57 - ************** Launching the browser **************
+2021-06-05 04:38:38,090  INFO [main] nopcommerce:64 - ************** Opening the website **************
+2021-06-05 04:38:39,455  INFO [main] nopcommerce:71 - ************** Providing login credentials **************
+2021-06-05 04:38:40,240  INFO [main] nopcommerce:79 - ************** Clicking login button **************
+2021-06-05 04:38:40,955  INFO [main] nopcommerce:85 - *********Login Validation starts ***************
+2021-06-05 04:38:40,980  INFO [main] nopcommerce:88 - *********Login Failed ***************
+2021-06-05 04:50:20,107  INFO [main] nopcommerce:57 - ************** Launching the browser **************
+2021-06-05 04:50:20,154  INFO [main] nopcommerce:64 - ************** Opening the website **************
+2021-06-05 04:50:32,848  INFO [main] nopcommerce:71 - ************** Providing login credentials **************
+2021-06-05 04:50:33,467  INFO [main] nopcommerce:79 - ************** Clicking login button **************
+2021-06-05 04:50:49,801  INFO [main] nopcommerce:85 - *********Login Validation starts ***************
+2021-06-05 04:50:52,703  INFO [main] nopcommerce:57 - ************** Launching the browser **************
+2021-06-05 04:50:52,705  INFO [main] nopcommerce:64 - ************** Opening the website **************
+2021-06-05 04:50:54,736  INFO [main] nopcommerce:71 - ************** Providing login credentials **************
+2021-06-05 04:50:55,560  INFO [main] nopcommerce:79 - ************** Clicking login button **************
+2021-06-05 04:50:56,356  INFO [main] nopcommerce:85 - *********Login Validation starts ***************
+2021-06-05 04:50:56,700  INFO [main] nopcommerce:89 - *********Login Failed ***************
+2021-06-05 04:52:50,600  INFO [main] nopcommerce:57 - ************** Launching the browser **************
+2021-06-05 04:52:50,625  INFO [main] nopcommerce:64 - ************** Opening the website **************
+2021-06-05 04:52:52,591  INFO [main] nopcommerce:71 - ************** Providing login credentials **************
+2021-06-05 04:52:53,182  INFO [main] nopcommerce:79 - ************** Clicking login button **************
+2021-06-05 04:53:00,442  INFO [main] nopcommerce:85 - *********Login Validation starts ***************
+2021-06-05 04:53:02,645  INFO [main] nopcommerce:57 - ************** Launching the browser **************
+2021-06-05 04:53:02,647  INFO [main] nopcommerce:64 - ************** Opening the website **************
+2021-06-05 04:53:04,851  INFO [main] nopcommerce:71 - ************** Providing login credentials **************
+2021-06-05 04:53:05,609  INFO [main] nopcommerce:79 - ************** Clicking login button **************
+2021-06-05 04:53:07,054  INFO [main] nopcommerce:85 - *********Login Validation starts ***************
+2021-06-05 04:53:07,472  INFO [main] nopcommerce:89 - *********Login Failed ***************
+2021-06-05 04:54:32,101  INFO [main] nopcommerce:57 - ************** Launching the browser **************
+2021-06-05 04:54:32,131  INFO [main] nopcommerce:64 - ************** Opening the website **************
+2021-06-05 04:54:34,834  INFO [main] nopcommerce:71 - ************** Providing login credentials **************
+2021-06-05 04:54:35,843  INFO [main] nopcommerce:79 - ************** Clicking login button **************
+2021-06-05 04:54:43,852  INFO [main] nopcommerce:85 - *********Login Validation starts ***************
+2021-06-05 04:54:46,984  INFO [main] nopcommerce:57 - ************** Launching the browser **************
+2021-06-05 04:54:46,986  INFO [main] nopcommerce:64 - ************** Opening the website **************
+2021-06-05 04:54:49,301  INFO [main] nopcommerce:71 - ************** Providing login credentials **************
+2021-06-05 04:54:50,218  INFO [main] nopcommerce:79 - ************** Clicking login button **************
+2021-06-05 04:54:51,040  INFO [main] nopcommerce:85 - *********Login Validation starts ***************
+2021-06-05 04:54:51,395  INFO [main] nopcommerce:89 - *********Login Failed ***************
+2021-06-05 04:54:51,396  INFO [main] nopcommerce:110 - ************** Closing the browser **************
+2021-06-05 04:56:56,430  INFO [main] nopcommerce:57 - ************** Launching the browser **************
+2021-06-05 04:56:56,455  INFO [main] nopcommerce:64 - ************** Opening the website **************
+2021-06-05 04:56:58,527  INFO [main] nopcommerce:71 - ************** Providing login credentials **************
+2021-06-05 04:56:59,157  INFO [main] nopcommerce:79 - ************** Clicking login button **************
+2021-06-05 04:57:06,740  INFO [main] nopcommerce:85 - *********Login Validation starts ***************
+2021-06-05 04:57:09,411  INFO [main] nopcommerce:57 - ************** Launching the browser **************
+2021-06-05 04:57:09,413  INFO [main] nopcommerce:64 - ************** Opening the website **************
+2021-06-05 04:57:11,065  INFO [main] nopcommerce:71 - ************** Providing login credentials **************
+2021-06-05 04:57:11,895  INFO [main] nopcommerce:79 - ************** Clicking login button **************
+2021-06-05 04:57:12,657  INFO [main] nopcommerce:85 - *********Login Validation starts ***************
+2021-06-05 04:57:12,845  INFO [main] nopcommerce:97 - *********Login Failed ***************
+2021-06-05 04:57:12,845  INFO [main] nopcommerce:118 - ************** Closing the browser **************
+2021-06-05 04:58:54,009  INFO [main] nopcommerce:58 - ************** Launching the browser **************
+2021-06-05 04:58:54,046  INFO [main] nopcommerce:65 - ************** Opening the website **************
+2021-06-05 04:58:56,100  INFO [main] nopcommerce:72 - ************** Providing login credentials **************
+2021-06-05 04:58:56,920  INFO [main] nopcommerce:80 - ************** Clicking login button **************
+2021-06-05 04:59:06,222  INFO [main] nopcommerce:58 - ************** Launching the browser **************
+2021-06-05 04:59:06,225  INFO [main] nopcommerce:65 - ************** Opening the website **************
+2021-06-05 04:59:08,066  INFO [main] nopcommerce:72 - ************** Providing login credentials **************
+2021-06-05 04:59:08,904  INFO [main] nopcommerce:80 - ************** Clicking login button **************
+2021-06-05 05:00:18,508  INFO [main] nopcommerce:58 - ************** Launching the browser **************
+2021-06-05 05:00:18,538  INFO [main] nopcommerce:65 - ************** Opening the website **************
+2021-06-05 05:00:35,630  INFO [main] nopcommerce:72 - ************** Providing login credentials **************
+2021-06-05 05:00:36,133  INFO [main] nopcommerce:80 - ************** Clicking login button **************
+2021-06-05 05:00:43,077  INFO [main] nopcommerce:87 - *********Login Validation starts ***************
+2021-06-05 05:00:43,487  INFO [main] nopcommerce:96 - *********Login successfull ***************
+2021-06-05 05:00:50,254  INFO [main] nopcommerce:105 - ************** Click on logout link **************
+2021-06-05 05:00:50,398  INFO [main] nopcommerce:87 - *********Login Validation starts ***************
+2021-06-05 05:00:50,413  INFO [main] nopcommerce:96 - *********Login successfull ***************
+2021-06-05 05:00:55,428  INFO [main] nopcommerce:113 - ************** Closing the browser **************
+2021-06-05 05:00:58,103  INFO [main] nopcommerce:58 - ************** Launching the browser **************
+2021-06-05 05:00:58,105  INFO [main] nopcommerce:65 - ************** Opening the website **************
+2021-06-05 05:01:00,204  INFO [main] nopcommerce:72 - ************** Providing login credentials **************
+2021-06-05 05:01:00,867  INFO [main] nopcommerce:80 - ************** Clicking login button **************
+2021-06-05 05:01:02,306  INFO [main] nopcommerce:87 - *********Login Validation starts ***************
+2021-06-05 05:01:02,334  INFO [main] nopcommerce:90 - *********Login Failed ***************
+2021-06-05 06:55:07,890  INFO [main] nopcommerce:58 - ************** Launching the browser **************
+2021-06-05 06:55:07,919  INFO [main] nopcommerce:65 - ************** Opening the website **************
+2021-06-05 06:55:10,878  INFO [main] nopcommerce:72 - ************** Providing login credentials **************
+2021-06-05 06:55:12,519  INFO [main] nopcommerce:80 - ************** Clicking login button **************
+2021-06-05 06:55:14,773  INFO [main] nopcommerce:105 - *********Login Failed ***************
+2021-06-05 06:57:05,561  INFO [main] nopcommerce:58 - ************** Launching the browser **************
+2021-06-05 06:57:05,601  INFO [main] nopcommerce:65 - ************** Opening the website **************
+2021-06-05 06:57:08,140  INFO [main] nopcommerce:72 - ************** Providing login credentials **************
+2021-06-05 06:57:09,270  INFO [main] nopcommerce:80 - ************** Clicking login button **************
+2021-06-05 06:57:29,884  INFO [main] nopcommerce:133 - ************** Dashboard page is visible **************
+2021-06-05 06:57:46,349  INFO [main] nopcommerce:155 - ************** Add customer page is visible **************
+2021-06-05 06:57:46,357  INFO [main] nopcommerce:162 - ************** Add new customer credentials **************
+2021-06-05 06:57:50,295  INFO [main] nopcommerce:181 - ************** Click save **************
+2021-06-05 06:57:56,456  INFO [main] nopcommerce:189 - ************** New customer is added successfully **************
+2021-06-05 06:57:56,458  INFO [main] nopcommerce:122 - ************** Closing the browser **************
+2021-06-05 06:58:01,029  INFO [main] nopcommerce:58 - ************** Launching the browser **************
+2021-06-05 06:58:01,040  INFO [main] nopcommerce:65 - ************** Opening the website **************
+2021-06-05 06:58:03,735  INFO [main] nopcommerce:72 - ************** Providing login credentials **************
+2021-06-05 06:58:04,911  INFO [main] nopcommerce:80 - ************** Clicking login button **************
+2021-06-05 06:58:17,937  INFO [main] nopcommerce:133 - ************** Dashboard page is visible **************
+2021-06-05 06:58:22,552  INFO [main] nopcommerce:199 - ************** Enter Email desired to search for **************
+2021-06-05 06:58:23,260  INFO [main] nopcommerce:207 - ************** Click on search button **************
+2021-06-05 06:58:28,416  INFO [main] nopcommerce:216 - ************** Search by Email is successful, and the result is matched **************
+2021-06-05 06:58:28,419  INFO [main] nopcommerce:122 - ************** Closing the browser **************
+2021-06-05 06:58:32,284  INFO [main] nopcommerce:58 - ************** Launching the browser **************
+2021-06-05 06:58:32,286  INFO [main] nopcommerce:65 - ************** Opening the website **************
+2021-06-05 06:58:33,837  INFO [main] nopcommerce:72 - ************** Providing login credentials **************
+2021-06-05 06:58:34,969  INFO [main] nopcommerce:80 - ************** Clicking login button **************
+2021-06-05 06:58:42,825  INFO [main] nopcommerce:133 - ************** Dashboard page is visible **************
+2021-06-05 06:58:49,076  INFO [main] nopcommerce:226 - ************** Enter First name desired to search for **************
+2021-06-05 06:58:49,562  INFO [main] nopcommerce:232 - ************** Enter last name desired to search for **************
+2021-06-05 06:58:50,102  INFO [main] nopcommerce:207 - ************** Click on search button **************
+2021-06-05 06:58:55,257  INFO [main] nopcommerce:241 - ************** Search by full name is successful, and the result is matched **************
+2021-06-05 06:58:55,259  INFO [main] nopcommerce:122 - ************** Closing the browser **************
+2021-06-05 06:59:00,519  INFO [main] nopcommerce:58 - ************** Launching the browser **************
+2021-06-05 06:59:00,521  INFO [main] nopcommerce:65 - ************** Opening the website **************
+2021-06-05 06:59:02,130  INFO [main] nopcommerce:72 - ************** Providing login credentials **************
+2021-06-05 06:59:03,077  INFO [main] nopcommerce:80 - ************** Clicking login button **************
+2021-06-05 06:59:11,065  INFO [main] nopcommerce:101 - *********Login successfull ***************
+2021-06-05 06:59:13,513  INFO [main] nopcommerce:114 - ************** Click on logout link **************
+2021-06-05 06:59:13,750  INFO [main] nopcommerce:101 - *********Login successfull ***************
+2021-06-05 06:59:13,766  INFO [main] nopcommerce:122 - ************** Closing the browser **************
+2021-06-05 06:59:19,238  INFO [main] nopcommerce:58 - ************** Launching the browser **************
+2021-06-05 06:59:19,242  INFO [main] nopcommerce:65 - ************** Opening the website **************
+2021-06-05 06:59:22,085  INFO [main] nopcommerce:72 - ************** Providing login credentials **************
+2021-06-05 06:59:23,479  INFO [main] nopcommerce:80 - ************** Clicking login button **************
+2021-06-05 06:59:33,676  INFO [main] nopcommerce:101 - *********Login successfull ***************
+2021-06-05 06:59:36,636  INFO [main] nopcommerce:114 - ************** Click on logout link **************
+2021-06-05 06:59:36,850  INFO [main] nopcommerce:101 - *********Login successfull ***************
+2021-06-05 06:59:36,872  INFO [main] nopcommerce:122 - ************** Closing the browser **************
+2021-06-05 06:59:41,369  INFO [main] nopcommerce:58 - ************** Launching the browser **************
+2021-06-05 06:59:41,373  INFO [main] nopcommerce:65 - ************** Opening the website **************
+2021-06-05 06:59:43,144  INFO [main] nopcommerce:72 - ************** Providing login credentials **************
+2021-06-05 06:59:43,917  INFO [main] nopcommerce:80 - ************** Clicking login button **************
+2021-06-05 06:59:44,931  INFO [main] nopcommerce:105 - *********Login Failed ***************
+2021-06-05 07:09:19,177  INFO [main] nopcommerce:58 - ************** Launching the browser **************
+2021-06-05 07:09:19,209  INFO [main] nopcommerce:65 - ************** Opening the website **************
+2021-06-05 07:09:22,188  INFO [main] nopcommerce:72 - ************** Providing login credentials **************
+2021-06-05 07:09:23,177  INFO [main] nopcommerce:80 - ************** Clicking login button **************
+2021-06-05 07:09:24,300  INFO [main] nopcommerce:105 - *********Login Failed ***************
+2021-06-05 07:13:03,588  INFO [main] nopcommerce:58 - ************** Launching the browser **************
+2021-06-05 07:13:03,624  INFO [main] nopcommerce:65 - ************** Opening the website **************
+2021-06-05 07:13:06,662  INFO [main] nopcommerce:72 - ************** Providing login credentials **************
+2021-06-05 07:13:07,814  INFO [main] nopcommerce:80 - ************** Clicking login button **************
+2021-06-05 07:13:09,559  INFO [main] nopcommerce:87 - *********Login Validation starts ***************
+2021-06-05 07:13:09,612  INFO [main] nopcommerce:90 - *********Login Failed ***************
+2021-06-05 07:15:28,100  INFO [main] nopcommerce:58 - ************** Launching the browser **************
+2021-06-05 07:15:28,137  INFO [main] nopcommerce:65 - ************** Opening the website **************
+2021-06-05 07:15:32,119  INFO [main] nopcommerce:72 - ************** Providing login credentials **************
+2021-06-05 07:15:33,226  INFO [main] nopcommerce:80 - ************** Clicking login button **************
+2021-06-05 07:15:34,792  INFO [main] nopcommerce:87 - *********Login Validation starts ***************
+2021-06-05 07:15:34,832  INFO [main] nopcommerce:90 - *********Login Failed ***************
+2021-06-05 07:17:27,371  INFO [main] nopcommerce:58 - ************** Launching the browser **************
+2021-06-05 07:17:27,441  INFO [main] nopcommerce:65 - ************** Opening the website **************
+2021-06-05 07:17:31,368  INFO [main] nopcommerce:72 - ************** Providing login credentials **************
+2021-06-05 07:17:32,369  INFO [main] nopcommerce:80 - ************** Clicking login button **************
+2021-06-05 07:17:42,887  INFO [main] nopcommerce:137 - ************** Dashboard page is visible **************
+2021-06-05 07:17:50,461  INFO [main] nopcommerce:159 - ************** Add customer page is visible **************
+2021-06-05 07:17:50,465  INFO [main] nopcommerce:166 - ************** Add new customer credentials **************
+2021-06-05 07:17:55,499  INFO [main] nopcommerce:185 - ************** Click save **************
+2021-06-05 07:18:00,136  INFO [main] nopcommerce:193 - ************** New customer is added successfully **************
+2021-06-05 07:18:00,139  INFO [main] nopcommerce:126 - ************** Closing the browser **************
+2021-06-05 07:18:04,551  INFO [main] nopcommerce:58 - ************** Launching the browser **************
+2021-06-05 07:18:04,559  INFO [main] nopcommerce:65 - ************** Opening the website **************
+2021-06-05 07:18:07,194  INFO [main] nopcommerce:72 - ************** Providing login credentials **************
+2021-06-05 07:18:07,966  INFO [main] nopcommerce:80 - ************** Clicking login button **************
+2021-06-05 07:18:16,768  INFO [main] nopcommerce:137 - ************** Dashboard page is visible **************
+2021-06-05 07:18:21,023  INFO [main] nopcommerce:203 - ************** Enter Email desired to search for **************
+2021-06-05 07:18:21,606  INFO [main] nopcommerce:211 - ************** Click on search button **************
+2021-06-05 07:18:26,687  INFO [main] nopcommerce:220 - ************** Search by Email is successful, and the result is matched **************
+2021-06-05 07:18:26,687  INFO [main] nopcommerce:126 - ************** Closing the browser **************
+2021-06-05 07:18:29,596  INFO [main] nopcommerce:58 - ************** Launching the browser **************
+2021-06-05 07:18:29,598  INFO [main] nopcommerce:65 - ************** Opening the website **************
+2021-06-05 07:18:31,659  INFO [main] nopcommerce:72 - ************** Providing login credentials **************
+2021-06-05 07:18:32,337  INFO [main] nopcommerce:80 - ************** Clicking login button **************
+2021-06-05 07:18:41,262  INFO [main] nopcommerce:137 - ************** Dashboard page is visible **************
+2021-06-05 07:18:44,920  INFO [main] nopcommerce:230 - ************** Enter First name desired to search for **************
+2021-06-05 07:18:45,397  INFO [main] nopcommerce:236 - ************** Enter last name desired to search for **************
+2021-06-05 07:18:45,810  INFO [main] nopcommerce:211 - ************** Click on search button **************
+2021-06-05 07:18:50,903  INFO [main] nopcommerce:245 - ************** Search by full name is successful, and the result is matched **************
+2021-06-05 07:18:50,905  INFO [main] nopcommerce:126 - ************** Closing the browser **************
+2021-06-05 07:18:54,075  INFO [main] nopcommerce:58 - ************** Launching the browser **************
+2021-06-05 07:18:54,077  INFO [main] nopcommerce:65 - ************** Opening the website **************
+2021-06-05 07:18:55,513  INFO [main] nopcommerce:72 - ************** Providing login credentials **************
+2021-06-05 07:18:56,205  INFO [main] nopcommerce:80 - ************** Clicking login button **************
+2021-06-05 07:18:56,992  INFO [main] nopcommerce:87 - *********Login Validation starts ***************
+2021-06-05 07:18:57,026  INFO [main] nopcommerce:90 - *********Login Failed ***************
+2021-06-05 07:19:03,708  INFO [main] nopcommerce:58 - ************** Launching the browser **************
+2021-06-05 07:19:03,710  INFO [main] nopcommerce:65 - ************** Opening the website **************
+2021-06-05 07:19:05,062  INFO [main] nopcommerce:72 - ************** Providing login credentials **************
+2021-06-05 07:19:05,804  INFO [main] nopcommerce:80 - ************** Clicking login button **************
+2021-06-05 07:19:11,894  INFO [main] nopcommerce:87 - *********Login Validation starts ***************
+2021-06-05 07:19:12,108  INFO [main] nopcommerce:97 - *********Login successfull ***************
+2021-06-05 07:19:18,830  INFO [main] nopcommerce:118 - ************** Click on logout link **************
+2021-06-05 07:19:18,998  INFO [main] nopcommerce:87 - *********Login Validation starts ***************
+2021-06-05 07:19:19,041  INFO [main] nopcommerce:97 - *********Login successfull ***************
+2021-06-05 07:19:24,058  INFO [main] nopcommerce:126 - ************** Closing the browser **************
+2021-06-05 07:19:27,312  INFO [main] nopcommerce:58 - ************** Launching the browser **************
+2021-06-05 07:19:27,314  INFO [main] nopcommerce:65 - ************** Opening the website **************
+2021-06-05 07:19:29,479  INFO [main] nopcommerce:72 - ************** Providing login credentials **************
+2021-06-05 07:19:30,098  INFO [main] nopcommerce:80 - ************** Clicking login button **************
+2021-06-05 07:19:31,593  INFO [main] nopcommerce:87 - *********Login Validation starts ***************
+2021-06-05 07:19:31,616  INFO [main] nopcommerce:90 - *********Login Failed ***************
+2021-06-05 08:07:39,314  INFO [main] nopcommerce:58 - ************** Launching the browser **************
+2021-06-05 08:07:39,358  INFO [main] nopcommerce:65 - ************** Opening the website **************
+2021-06-05 08:07:41,837  INFO [main] nopcommerce:72 - ************** Providing login credentials **************
+2021-06-05 08:07:42,912  INFO [main] nopcommerce:80 - ************** Clicking login button **************
+2021-06-05 08:07:48,003  INFO [main] nopcommerce:88 - *********Login Validation starts ***************
+2021-06-05 08:07:48,028  INFO [main] nopcommerce:96 - *********Login Failed ***************
+2021-06-05 08:09:08,625  INFO [main] nopcommerce:58 - ************** Launching the browser **************
+2021-06-05 08:09:08,682  INFO [main] nopcommerce:65 - ************** Opening the website **************
+2021-06-05 08:09:11,338  INFO [main] nopcommerce:72 - ************** Providing login credentials **************
+2021-06-05 08:09:12,348  INFO [main] nopcommerce:80 - ************** Clicking login button **************
+2021-06-05 08:09:17,548  INFO [main] nopcommerce:88 - *********Login Validation starts ***************
+2021-06-05 08:09:17,860  INFO [main] nopcommerce:96 - *********Login Failed ***************
+2021-06-05 08:10:27,763  INFO [main] nopcommerce:58 - ************** Launching the browser **************
+2021-06-05 08:10:27,788  INFO [main] nopcommerce:65 - ************** Opening the website **************
+2021-06-05 08:10:30,206  INFO [main] nopcommerce:72 - ************** Providing login credentials **************
+2021-06-05 08:10:31,290  INFO [main] nopcommerce:80 - ************** Clicking login button **************
+2021-06-05 08:10:37,122  INFO [main] nopcommerce:88 - *********Login Validation starts ***************
+2021-06-05 08:10:37,142  INFO [main] nopcommerce:96 - *********Login Failed ***************
+2021-06-05 08:12:09,250  INFO [main] nopcommerce:58 - ************** Launching the browser **************
+2021-06-05 08:12:09,331  INFO [main] nopcommerce:65 - ************** Opening the website **************
+2021-06-05 08:12:13,289  INFO [main] nopcommerce:72 - ************** Providing login credentials **************
+2021-06-05 08:12:14,273  INFO [main] nopcommerce:80 - ************** Clicking login button **************
+2021-06-05 08:12:20,306  INFO [main] nopcommerce:88 - *********Login Validation starts ***************
+2021-06-05 08:12:20,326  INFO [main] nopcommerce:96 - *********Login Failed ***************
+2021-06-05 08:13:39,555  INFO [main] nopcommerce:58 - ************** Launching the browser **************
+2021-06-05 08:13:39,579  INFO [main] nopcommerce:65 - ************** Opening the website **************
+2021-06-05 08:13:48,874  INFO [main] nopcommerce:72 - ************** Providing login credentials **************
+2021-06-05 08:13:49,632  INFO [main] nopcommerce:80 - ************** Clicking login button **************
+2021-06-05 08:13:54,331  INFO [main] nopcommerce:88 - *********Login Validation starts ***************
+2021-06-05 08:13:54,331  INFO [main] nopcommerce:96 - *********Login Failed ***************
+2021-06-05 08:15:43,173  INFO [main] nopcommerce:58 - ************** Launching the browser **************
+2021-06-05 08:15:43,222  INFO [main] nopcommerce:65 - ************** Opening the website **************
+2021-06-05 08:15:46,033  INFO [main] nopcommerce:72 - ************** Providing login credentials **************
+2021-06-05 08:15:47,356  INFO [main] nopcommerce:80 - ************** Clicking login button **************
+2021-06-05 08:15:52,298  INFO [main] nopcommerce:88 - *********Login Validation starts ***************
+2021-06-05 08:15:52,314  INFO [main] nopcommerce:96 - *********Login Failed ***************
+2021-06-05 08:45:23,195  INFO [main] nopcommerce:58 - ************** Launching the browser **************
+2021-06-05 08:45:23,230  INFO [main] nopcommerce:65 - ************** Opening the website **************
+2021-06-05 08:45:25,926  INFO [main] nopcommerce:72 - ************** Providing login credentials **************
+2021-06-05 08:45:27,089  INFO [main] nopcommerce:80 - ************** Clicking login button **************
+2021-06-05 08:45:32,032  INFO [main] nopcommerce:88 - *********Login Validation starts ***************
+2021-06-05 08:45:32,050  INFO [main] nopcommerce:96 - *********Login Failed ***************
+2021-06-05 08:52:39,927  INFO [main] nopcommerce:58 - ************** Launching the browser **************
+2021-06-05 08:52:39,957  INFO [main] nopcommerce:65 - ************** Opening the website **************
+2021-06-05 08:52:41,975  INFO [main] nopcommerce:72 - ************** Providing login credentials **************
+2021-06-05 08:52:42,830  INFO [main] nopcommerce:80 - ************** Clicking login button **************
+2021-06-05 08:52:47,391  INFO [main] nopcommerce:88 - *********Login Validation starts ***************
+2021-06-05 08:55:21,939  INFO [main] nopcommerce:58 - ************** Launching the browser **************
+2021-06-05 08:55:21,965  INFO [main] nopcommerce:65 - ************** Opening the website **************
+2021-06-05 08:55:24,255  INFO [main] nopcommerce:72 - ************** Providing login credentials **************
+2021-06-05 08:55:25,006  INFO [main] nopcommerce:80 - ************** Clicking login button **************
+2021-06-05 08:55:29,727  INFO [main] nopcommerce:88 - *********Login Validation starts ***************
+2021-06-05 08:57:58,875  INFO [main] nopcommerce:58 - ************** Launching the browser **************
+2021-06-05 08:57:58,903  INFO [main] nopcommerce:65 - ************** Opening the website **************
+2021-06-05 08:58:01,107  INFO [main] nopcommerce:72 - ************** Providing login credentials **************
+2021-06-05 08:58:01,876  INFO [main] nopcommerce:80 - ************** Clicking login button **************
+2021-06-05 08:58:12,806  INFO [main] nopcommerce:125 - ************** Dashboard page is visible **************
+2021-06-05 08:58:20,893  INFO [main] nopcommerce:147 - ************** Add customer page is visible **************
+2021-06-05 08:58:20,897  INFO [main] nopcommerce:154 - ************** Add new customer credentials **************
+2021-06-05 08:58:25,709  INFO [main] nopcommerce:58 - ************** Launching the browser **************
+2021-06-05 08:58:25,718  INFO [main] nopcommerce:65 - ************** Opening the website **************
+2021-06-05 08:58:27,124  INFO [main] nopcommerce:72 - ************** Providing login credentials **************
+2021-06-05 08:58:27,895  INFO [main] nopcommerce:80 - ************** Clicking login button **************
+2021-06-05 08:58:36,452  INFO [main] nopcommerce:125 - ************** Dashboard page is visible **************
+2021-06-05 08:58:39,701  INFO [main] nopcommerce:191 - ************** Enter Email desired to search for **************
+2021-06-05 08:58:40,332  INFO [main] nopcommerce:199 - ************** Click on search button **************
+2021-06-05 08:58:45,429  INFO [main] nopcommerce:208 - ************** Search by Email is successful, and the result is matched **************
+2021-06-05 08:58:45,431  INFO [main] nopcommerce:114 - ************** Closing the browser **************
+2021-06-05 08:58:47,904  INFO [main] nopcommerce:58 - ************** Launching the browser **************
+2021-06-05 08:58:47,907  INFO [main] nopcommerce:65 - ************** Opening the website **************
+2021-06-05 08:58:50,269  INFO [main] nopcommerce:72 - ************** Providing login credentials **************
+2021-06-05 08:58:51,232  INFO [main] nopcommerce:80 - ************** Clicking login button **************
+2021-06-05 08:59:01,742  INFO [main] nopcommerce:125 - ************** Dashboard page is visible **************
+2021-06-05 08:59:05,077  INFO [main] nopcommerce:218 - ************** Enter First name desired to search for **************
+2021-06-05 08:59:05,461  INFO [main] nopcommerce:224 - ************** Enter last name desired to search for **************
+2021-06-05 08:59:05,816  INFO [main] nopcommerce:199 - ************** Click on search button **************
+2021-06-05 08:59:10,910  INFO [main] nopcommerce:233 - ************** Search by full name is successful, and the result is matched **************
+2021-06-05 08:59:10,910  INFO [main] nopcommerce:114 - ************** Closing the browser **************
+2021-06-05 08:59:13,552  INFO [main] nopcommerce:58 - ************** Launching the browser **************
+2021-06-05 08:59:13,554  INFO [main] nopcommerce:65 - ************** Opening the website **************
+2021-06-05 08:59:15,890  INFO [main] nopcommerce:72 - ************** Providing login credentials **************
+2021-06-05 08:59:16,443  INFO [main] nopcommerce:80 - ************** Clicking login button **************
+2021-06-05 08:59:27,947  INFO [main] nopcommerce:88 - *********Login Validation starts ***************
+2021-06-05 08:59:28,125  INFO [main] nopcommerce:97 - *********Login successfull ***************
+2021-06-05 08:59:34,955  INFO [main] nopcommerce:106 - ************** Click on logout link **************
+2021-06-05 08:59:35,040  INFO [main] nopcommerce:88 - *********Login Validation starts ***************
+2021-06-05 08:59:35,052  INFO [main] nopcommerce:97 - *********Login successfull ***************
+2021-06-05 08:59:40,074  INFO [main] nopcommerce:114 - ************** Closing the browser **************
+2021-06-05 08:59:43,180  INFO [main] nopcommerce:58 - ************** Launching the browser **************
+2021-06-05 08:59:43,182  INFO [main] nopcommerce:65 - ************** Opening the website **************
+2021-06-05 08:59:45,249  INFO [main] nopcommerce:72 - ************** Providing login credentials **************
+2021-06-05 08:59:45,829  INFO [main] nopcommerce:80 - ************** Clicking login button **************
+2021-06-05 08:59:55,827  INFO [main] nopcommerce:88 - *********Login Validation starts ***************
+2021-06-05 08:59:55,909  INFO [main] nopcommerce:97 - *********Login successfull ***************
+2021-06-05 09:00:02,570  INFO [main] nopcommerce:106 - ************** Click on logout link **************
+2021-06-05 09:00:02,654  INFO [main] nopcommerce:88 - *********Login Validation starts ***************
+2021-06-05 09:00:02,674  INFO [main] nopcommerce:97 - *********Login successfull ***************
+2021-06-05 09:00:07,688  INFO [main] nopcommerce:114 - ************** Closing the browser **************
+2021-06-05 09:01:05,677  INFO [main] nopcommerce:58 - ************** Launching the browser **************
+2021-06-05 09:01:05,711  INFO [main] nopcommerce:65 - ************** Opening the website **************
+2021-06-05 09:01:07,094  INFO [main] nopcommerce:72 - ************** Providing login credentials **************
+2021-06-05 09:01:07,951  INFO [main] nopcommerce:80 - ************** Clicking login button **************
+2021-06-05 09:01:18,027  INFO [main] nopcommerce:125 - ************** Dashboard page is visible **************
+2021-06-05 09:01:22,465  INFO [main] nopcommerce:147 - ************** Add customer page is visible **************
+2021-06-05 09:01:22,468  INFO [main] nopcommerce:154 - ************** Add new customer credentials **************
+2021-06-05 09:01:25,296  INFO [main] nopcommerce:173 - ************** Click save **************
+2021-06-05 09:01:28,068  INFO [main] nopcommerce:181 - ************** New customer is added successfully **************
+2021-06-05 09:01:28,072  INFO [main] nopcommerce:114 - ************** Closing the browser **************
+2021-06-05 09:01:30,846  INFO [main] nopcommerce:58 - ************** Launching the browser **************
+2021-06-05 09:01:30,855  INFO [main] nopcommerce:65 - ************** Opening the website **************
+2021-06-05 09:01:32,180  INFO [main] nopcommerce:72 - ************** Providing login credentials **************
+2021-06-05 09:01:32,731  INFO [main] nopcommerce:80 - ************** Clicking login button **************
+2021-06-05 09:01:41,469  INFO [main] nopcommerce:125 - ************** Dashboard page is visible **************
+2021-06-05 09:01:43,955  INFO [main] nopcommerce:191 - ************** Enter Email desired to search for **************
+2021-06-05 09:01:44,556  INFO [main] nopcommerce:199 - ************** Click on search button **************
+2021-06-05 09:01:49,664  INFO [main] nopcommerce:208 - ************** Search by Email is successful, and the result is matched **************
+2021-06-05 09:01:49,664  INFO [main] nopcommerce:114 - ************** Closing the browser **************
+2021-06-05 09:01:52,395  INFO [main] nopcommerce:58 - ************** Launching the browser **************
+2021-06-05 09:01:52,398  INFO [main] nopcommerce:65 - ************** Opening the website **************
+2021-06-05 09:01:54,369  INFO [main] nopcommerce:72 - ************** Providing login credentials **************
+2021-06-05 09:01:54,903  INFO [main] nopcommerce:80 - ************** Clicking login button **************
+2021-06-05 09:02:04,622  INFO [main] nopcommerce:125 - ************** Dashboard page is visible **************
+2021-06-05 09:02:07,633  INFO [main] nopcommerce:218 - ************** Enter First name desired to search for **************
+2021-06-05 09:02:08,153  INFO [main] nopcommerce:224 - ************** Enter last name desired to search for **************
+2021-06-05 09:02:08,622  INFO [main] nopcommerce:199 - ************** Click on search button **************
+2021-06-05 09:02:13,715  INFO [main] nopcommerce:233 - ************** Search by full name is successful, and the result is matched **************
+2021-06-05 09:02:13,717  INFO [main] nopcommerce:114 - ************** Closing the browser **************
+2021-06-05 09:02:16,443  INFO [main] nopcommerce:58 - ************** Launching the browser **************
+2021-06-05 09:02:16,446  INFO [main] nopcommerce:65 - ************** Opening the website **************
+2021-06-05 09:02:17,866  INFO [main] nopcommerce:72 - ************** Providing login credentials **************
+2021-06-05 09:02:18,504  INFO [main] nopcommerce:80 - ************** Clicking login button **************
+2021-06-05 09:02:27,202  INFO [main] nopcommerce:88 - *********Login Validation starts ***************
+2021-06-05 09:02:27,327  INFO [main] nopcommerce:97 - *********Login successfull ***************
+2021-06-05 09:02:33,887  INFO [main] nopcommerce:106 - ************** Click on logout link **************
+2021-06-05 09:02:33,981  INFO [main] nopcommerce:88 - *********Login Validation starts ***************
+2021-06-05 09:02:33,997  INFO [main] nopcommerce:97 - *********Login successfull ***************
+2021-06-05 09:02:39,023  INFO [main] nopcommerce:114 - ************** Closing the browser **************
+2021-06-05 09:02:41,667  INFO [main] nopcommerce:58 - ************** Launching the browser **************
+2021-06-05 09:02:41,669  INFO [main] nopcommerce:65 - ************** Opening the website **************
+2021-06-05 09:02:43,626  INFO [main] nopcommerce:72 - ************** Providing login credentials **************
+2021-06-05 09:02:44,165  INFO [main] nopcommerce:80 - ************** Clicking login button **************
+2021-06-05 09:02:54,566  INFO [main] nopcommerce:88 - *********Login Validation starts ***************
+2021-06-05 09:02:54,645  INFO [main] nopcommerce:97 - *********Login successfull ***************
+2021-06-05 09:03:01,975  INFO [main] nopcommerce:106 - ************** Click on logout link **************
+2021-06-05 09:03:02,064  INFO [main] nopcommerce:88 - *********Login Validation starts ***************
+2021-06-05 09:03:02,080  INFO [main] nopcommerce:97 - *********Login successfull ***************
+2021-06-05 09:03:07,091  INFO [main] nopcommerce:114 - ************** Closing the browser **************
+2021-06-05 09:05:03,826  INFO [main] nopcommerce:58 - ************** Launching the browser **************
+2021-06-05 09:05:03,853  INFO [main] nopcommerce:65 - ************** Opening the website **************
+2021-06-05 09:05:06,428  INFO [main] nopcommerce:72 - ************** Providing login credentials **************
+2021-06-05 09:05:07,910  INFO [main] nopcommerce:80 - ************** Clicking login button **************
+2021-06-05 09:05:15,782  INFO [main] nopcommerce:88 - *********Login Validation starts ***************
+2021-06-05 09:05:15,887  INFO [main] nopcommerce:91 - *********Login Failed ***************
+2021-06-05 09:12:05,461  INFO [main] nopcommerce:58 - ************** Launching the browser **************
+2021-06-05 09:12:05,492  INFO [main] nopcommerce:65 - ************** Opening the website **************
+2021-06-05 09:12:07,907  INFO [main] nopcommerce:72 - ************** Providing login credentials **************
+2021-06-05 09:12:08,742  INFO [main] nopcommerce:80 - ************** Clicking login button **************
+2021-06-05 09:12:13,283  INFO [main] nopcommerce:88 - *********Login Validation starts ***************
+2021-06-05 09:12:13,317  INFO [main] nopcommerce:91 - *********Login Failed ***************
+2021-06-05 20:00:55,201  INFO [main] nopcommerce:58 - ************** Launching the browser **************
+2021-06-05 20:00:55,234  INFO [main] nopcommerce:65 - ************** Opening the website **************
+2021-06-05 20:00:57,387  INFO [main] nopcommerce:72 - ************** Providing login credentials **************
+2021-06-05 20:00:58,204  INFO [main] nopcommerce:80 - ************** Clicking login button **************
+2021-06-05 20:01:09,562  INFO [main] nopcommerce:125 - ************** Dashboard page is visible **************
+2021-06-05 20:01:16,886  INFO [main] nopcommerce:147 - ************** Add customer page is visible **************
+2021-06-05 20:01:16,889  INFO [main] nopcommerce:154 - ************** Add new customer credentials **************
+2021-06-05 20:01:21,306  INFO [main] nopcommerce:173 - ************** Click save **************
+2021-06-05 20:01:25,785  INFO [main] nopcommerce:181 - ************** New customer is added successfully **************
+2021-06-05 20:01:25,789  INFO [main] nopcommerce:114 - ************** Closing the browser **************
+2021-06-05 20:01:31,106  INFO [main] nopcommerce:58 - ************** Launching the browser **************
+2021-06-05 20:01:31,116  INFO [main] nopcommerce:65 - ************** Opening the website **************
+2021-06-05 20:01:33,663  INFO [main] nopcommerce:72 - ************** Providing login credentials **************
+2021-06-05 20:01:34,612  INFO [main] nopcommerce:80 - ************** Clicking login button **************
+2021-06-05 20:01:45,009  INFO [main] nopcommerce:125 - ************** Dashboard page is visible **************
+2021-06-05 20:01:47,941  INFO [main] nopcommerce:191 - ************** Enter Email desired to search for **************
+2021-06-05 20:01:48,635  INFO [main] nopcommerce:199 - ************** Click on search button **************
+2021-06-05 20:01:53,732  INFO [main] nopcommerce:208 - ************** Search by Email is successful, and the result is matched **************
+2021-06-05 20:01:53,734  INFO [main] nopcommerce:114 - ************** Closing the browser **************
+2021-06-05 20:01:57,223  INFO [main] nopcommerce:58 - ************** Launching the browser **************
+2021-06-05 20:01:57,226  INFO [main] nopcommerce:65 - ************** Opening the website **************
+2021-06-05 20:01:59,292  INFO [main] nopcommerce:72 - ************** Providing login credentials **************
+2021-06-05 20:01:59,988  INFO [main] nopcommerce:80 - ************** Clicking login button **************
+2021-06-05 20:02:08,601  INFO [main] nopcommerce:125 - ************** Dashboard page is visible **************
+2021-06-05 20:02:12,404  INFO [main] nopcommerce:218 - ************** Enter First name desired to search for **************
+2021-06-05 20:02:12,896  INFO [main] nopcommerce:224 - ************** Enter last name desired to search for **************
+2021-06-05 20:02:13,300  INFO [main] nopcommerce:199 - ************** Click on search button **************
+2021-06-05 20:02:18,387  INFO [main] nopcommerce:233 - ************** Search by full name is successful, and the result is matched **************
+2021-06-05 20:02:18,389  INFO [main] nopcommerce:114 - ************** Closing the browser **************
+2021-06-05 20:02:21,839  INFO [main] nopcommerce:58 - ************** Launching the browser **************
+2021-06-05 20:02:21,841  INFO [main] nopcommerce:65 - ************** Opening the website **************
+2021-06-05 20:02:23,955  INFO [main] nopcommerce:72 - ************** Providing login credentials **************
+2021-06-05 20:02:24,653  INFO [main] nopcommerce:80 - ************** Clicking login button **************
+2021-06-05 20:02:28,536  INFO [main] nopcommerce:88 - *********Login Validation starts ***************
+2021-06-05 20:02:28,559  INFO [main] nopcommerce:91 - *********Login Failed ***************
+2021-06-05 20:02:37,304  INFO [main] nopcommerce:58 - ************** Launching the browser **************
+2021-06-05 20:02:37,306  INFO [main] nopcommerce:65 - ************** Opening the website **************
+2021-06-05 20:02:38,763  INFO [main] nopcommerce:72 - ************** Providing login credentials **************
+2021-06-05 20:02:39,728  INFO [main] nopcommerce:80 - ************** Clicking login button **************
+2021-06-05 20:02:47,236  INFO [main] nopcommerce:88 - *********Login Validation starts ***************
+2021-06-05 20:02:47,426  INFO [main] nopcommerce:97 - *********Login successfull ***************
+2021-06-05 20:02:54,236  INFO [main] nopcommerce:106 - ************** Click on logout link **************
+2021-06-05 20:02:54,364  INFO [main] nopcommerce:88 - *********Login Validation starts ***************
+2021-06-05 20:02:54,406  INFO [main] nopcommerce:97 - *********Login successfull ***************
+2021-06-05 20:02:59,433  INFO [main] nopcommerce:114 - ************** Closing the browser **************
+2021-06-05 20:07:54,742  INFO [main] nopcommerce:58 - ************** Launching the browser **************
+2021-06-05 20:07:54,779  INFO [main] nopcommerce:65 - ************** Opening the website **************
+2021-06-05 20:07:57,484  INFO [main] nopcommerce:72 - ************** Providing login credentials **************
+2021-06-05 20:07:58,776  INFO [main] nopcommerce:80 - ************** Clicking login button **************
+2021-06-05 20:08:03,377  INFO [main] nopcommerce:88 - *********Login Validation starts ***************
+2021-06-05 20:08:03,398  INFO [main] nopcommerce:91 - *********Login Failed ***************
+2021-06-05 23:40:35,466  INFO [main] nopcommerce:58 - ************** Launching the browser **************
+2021-06-05 23:40:35,503  INFO [main] nopcommerce:65 - ************** Opening the website **************
+2021-06-05 23:40:37,851  INFO [main] nopcommerce:72 - ************** Providing login credentials **************
+2021-06-05 23:40:38,458  INFO [main] nopcommerce:80 - ************** Clicking login button **************
+2021-06-05 23:41:02,510  INFO [main] nopcommerce:125 - ************** Dashboard page is visible **************
+2021-06-05 23:41:12,140  INFO [main] nopcommerce:147 - ************** Add customer page is visible **************
+2021-06-05 23:41:12,142  INFO [main] nopcommerce:154 - ************** Add new customer credentials **************
